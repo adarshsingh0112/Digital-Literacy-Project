@@ -1,26 +1,47 @@
-Digital Literacy Project
+Student Details
 
-Objective
+Name: Adarsh Singh
+Registration Number: 25BCE10991
+Course: CSE0001 – Digital Literacy
+University: VIT Bhopal University
 
-To demonstrate digital literacy skills using modern tools.
+About This Project
 
-Skills Covered
-- GitHub
-- LinkedIn
-- Email etiquette
-- Cyber safety
+This project was done as part of the Digital Literacy course. The main aim was to understand how to use digital tools properly and also be aware of online safety.
 
-Tools Used
-- GitHub
-- Google Docs
-- Canva
-- LinkedIn
+In this project, I have completed different tasks like making an infographic, creating online profiles, exploring platforms, writing professional emails, and learning about cybercrime. All the work is organized into different folders in this repository.
 
-Activities
-- Created GitHub repo
-- Built LinkedIn profile
-- Learned email writing
-- Cyber safety awareness
+Project Structure
 
-Conclusion
-This project improved my digital skills.
+task-1-presentation/
+Contains the infographic created using Canva along with a short description.
+
+task-2-portfolio/
+Includes screenshots of my profiles on platforms like GitHub, LinkedIn, etc.
+
+task-3-platforms/
+Contains proof of coding practice and Google Form screenshots.
+
+task-4-email-etiquette/
+Includes two professional email drafts and a social media checklist.
+
+task-5-cybercrime/
+Contains the cybercrime case study and prevention checklist.
+
+report/
+Contains the final project report in PDF/DOCX format.
+
+Tools & Platforms Used
+
+Canva (for infographic)
+GitHub (for repository)
+LinkedIn (professional profile)
+HackerRank (coding practice)
+Google Forms (quiz creation)
+What I Learned While doing this project, I learned how important digital literacy is in daily life. I understood how to communicate professionally, create a digital presence, and stay safe from online threats.
+
+One important thing I realized is that even small mistakes online can cause problems, so being careful is very important.
+
+Useful Links Google Form:
+
+Final Note This project helped me understand the digital world better. I will continue to improve my skills and use these platforms in the coming years
